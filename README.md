@@ -1,20 +1,18 @@
-# Webpack Boilerplate
+# Personal Webpage
 
-A webpack boilerplate that includes the following libs:
+A responsive static single-page personal webpage.
 
-* jQuery
-* bootstrap
-* font-awesome
-* waypoints
-* jquery.scrollto
-* animate.css
+* Based on [webpack-boilerplate](https://github.com/geniuscarrier/webpack-boilerplate) 
+* The only dependency is [bootstrap 4](https://getbootstrap.com/) with a few lines of inline javascript. 
+* Icons for social media links are from [simple-icons](https://github.com/simple-icons/simple-icons)
+* Background photo is from [pexels](https://www.pexels.com)
 
-in order to quickly build up a production-ready marketing website.
+### Screen shots
+Desktop
+![desktop](screen-shots/desktop-1.jpg)
 
-### Example Page
-[DEMO](http://geniuscarrier.com/demo/webpack-boilerplate/)
-
-![GIF](http://geniuscarrier.me/images/webpack-boilerplate.gif)
+Mobile
+![mobile](screen-shots/mobile-1.jpg)
 
 ### Install dependencies
 
@@ -43,6 +41,7 @@ npm install
 	```
 
 3. Copy the following folders/files to web server
+
 	/build,
 	/image,
 	index.html
