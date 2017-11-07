@@ -12,7 +12,7 @@ Desktop
 ![desktop](screen-shots/desktop-1.jpg)
 
 Mobile
-![mobile](screen-shots/mobile-1.jpg)
+![mobile](screen-shots/mobile-1.png)
 
 ### Install dependencies
 
